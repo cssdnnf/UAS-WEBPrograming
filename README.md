@@ -30,6 +30,7 @@
 - username: shalu
 - password: shalu123
 
+
 ## Tampilan Halaman Utama
 ![Tampilan Halaman Utama](https://raw.githubusercontent.com/cssdnnf/UAS-WEBPrograming/main/screenshot/Home.png)
 
@@ -56,3 +57,9 @@
 
 ### Tampilan Footer
 ![Tampilan Contact](./screenshot/footer.png)
+
+
+## Tampilan Login dan Register
+![Tampilan Login dan Register](./screenshot/Login.png)
+
+![Tampilan Login dan Register](./screenshot/Register.png)
