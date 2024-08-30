@@ -1,4 +1,4 @@
-        	<!-- FOOTER -->
+			<!-- FOOTER -->
 			<footer id="footer-1" class="footer division wide-50">
 				<div class="container">
 					<div class="row">

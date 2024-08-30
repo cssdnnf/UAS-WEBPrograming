@@ -1500,7 +1500,7 @@
   display: none;
 }
 
-.navik-menu {
+.navik-menu . {
   margin-bottom: 20px;
 }
 
@@ -2120,7 +2120,7 @@
 }
 
 .navik-header.sticky .navik-menu > ul > li > a {
-  height: 20px;
+  height: 80px;
   line-height: 80px;
 }
 

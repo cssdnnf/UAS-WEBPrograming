@@ -1,4 +1,5 @@
-            <!-- Home -->
+
+			<!-- Home -->
             <section id="MainBanner" class="bg-fixed ">
 				<div class="container">
 					<div class="row d-flex align-items-center">
