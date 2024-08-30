@@ -97,7 +97,7 @@
 
                                 <?php if ($this->session->userdata('user_id')): ?>
 								<li class="menu-cart">
-									<a href="<?php echo site_url('admin/orders'); ?>"><i class="fa fa-shopping-cart"></i></a>
+									<a href="<?php echo site_url('admin/orders'); ?>">CART</i></a>
 								</li>
                                 <?php endif; ?>
 

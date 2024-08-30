@@ -1500,7 +1500,7 @@
   display: none;
 }
 
-.navik-menu . {
+.navik-menu .  {
   margin-bottom: 20px;
 }
 
@@ -1902,7 +1902,7 @@
 .navik-menu > ul > li > a {
   position: relative;
   box-sizing: border-box;
-  height: 20px;
+  height: 80px;
   padding: 0 14px;
   line-height: 80px;
   white-space: nowrap;
