@@ -63,3 +63,16 @@
 ![Tampilan Login dan Register](./screenshot/Login.png)
 
 ![Tampilan Login dan Register](./screenshot/Register.png)
+
+
+## Tampilan Dashboard Admin
+### Tampilan CRUD Menu
+![Tampilan CRUD Menu](./screenshot/CRUD%20MENU.png)
+
+### Tampilan CRUD Users
+![Tampilan CRUD Users](./screenshot/CRUD%20USERS.png)
+
+
+## Tampilan Dashboard User
+### Tampilan CRUD Orders
+![Tampilan CRUD Orders](./screenshot/CRUD%20ORDERS.png)
