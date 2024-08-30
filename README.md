@@ -18,17 +18,17 @@
 - Database (MySQL)
 - PHPMailer
 
-## Akun Login (ADMIN)
+## Akun Login (ADMIN | Cassiel D. Ferdinand)
 - username: admin
 - password: admin123
 
-### Akun Login (USER)
-- username: vico
-- password: vico321
-
-### Akun Login (USER)
+### Akun Login (USER | Siti Shalu Prilia)
 - username: shalu
 - password: shalu123
+  
+### Akun Login (USER | M. Vico Lacosto)
+- username: vico
+- password: vico321
 
 
 ## Tampilan Halaman Utama
