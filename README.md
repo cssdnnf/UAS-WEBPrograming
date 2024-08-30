@@ -18,3 +18,29 @@
 - Database (MySQL)
 - PHPMailer
 
+## Tampilan Halaman Utama
+![Tampilan Halaman Utama](https://raw.githubusercontent.com/cssdnnf/UAS-WEBPrograming/main/screenshot/Home.png)
+
+### Tampilan Menu
+![Tampilan Menu Burger](./screenshot/Menu%20Burger.png)
+
+![Tampilan Menu Fires Sides](./screenshot/Menu%20Fries%20Sides.png)
+
+![Tampilan Menu Drinks](./screenshot/Menu%20Drinks.png)
+
+![Tampilan Menu Desserts](./screenshot/Menu%20Desserts.png)
+
+### Tampilan Gallery
+![Tampilan Gallery](./screenshot/Gallery.png)
+
+### Tampilan Team
+![Tampilan Team](./screenshot/Team.png)
+
+### Tampilan Location
+![Tampilan Location](./screenshot/Location.png)
+
+### Tampilan Contact
+![Tampilan Contact](./screenshot/Contact.png)
+
+### Tampilan Footer
+![Tampilan Contact](./screenshot/footer.png)
