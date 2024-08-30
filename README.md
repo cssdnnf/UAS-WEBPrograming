@@ -18,6 +18,18 @@
 - Database (MySQL)
 - PHPMailer
 
+## Akun Login (ADMIN)
+- username: admin
+- password: admin123
+
+### Akun Login (USER)
+- username: vico
+- password: vico321
+
+### Akun Login (USER)
+- username: shalu
+- password: shalu123
+
 ## Tampilan Halaman Utama
 ![Tampilan Halaman Utama](https://raw.githubusercontent.com/cssdnnf/UAS-WEBPrograming/main/screenshot/Home.png)
 
